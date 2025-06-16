@@ -54,5 +54,5 @@
 
 <h3 align="left">👁‍🗨 Visitors Count</h3>
 <p align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=MohamedAyman" alt="Visitor Count" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
