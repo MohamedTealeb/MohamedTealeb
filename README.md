@@ -10,7 +10,7 @@
 - 💡 I’m building full-stack web applications using the **MERN Stack**
 - 🛠️ Always improving and learning new technologies
 
----
+---  
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
