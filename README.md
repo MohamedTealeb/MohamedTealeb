@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ayman</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Ayman Tealeb</h1>
 <h3 align="center">A passionate full-stack web developer from Cairo, Egypt</h3>
 
 <p align="center">
