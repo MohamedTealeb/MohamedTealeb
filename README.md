@@ -10,7 +10,7 @@
 - 💡 I’m building full-stack web applications using the **MERN Stack**
 - 🛠️ Always improving and learning new technologies
 
----  
+---
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
@@ -38,7 +38,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -48,6 +47,13 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+    <img src="https://sequelize.org/img/logo.svg" alt="sequelize" width="40" height="40"/>
+  </a>
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
+    <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="mongoose" width="62" height="30"/>
+  </a>
 </p>
-
-
