@@ -56,4 +56,10 @@
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
     <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="mongoose" width="62" height="30"/>
   </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" alt="prisma" width="40" height="40"/>
+  </a>
 </p>
