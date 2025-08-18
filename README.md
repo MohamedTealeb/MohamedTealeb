@@ -1,17 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ayman Tealeb</h1>
-<h3 align="center">A passionate full-stack web developer from Cairo, Egypt</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding animation" />
-</p>
-
-- 🔭 I’m currently working on **Full-Stack Projects**
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB, and RESTful APIs**
-- 💡 I’m building full-stack web applications using the **MERN Stack**
-- 🛠️ Always improving and learning new technologies
-
----
-
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -61,5 +47,8 @@
   </a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" alt="prisma" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
 </p>
