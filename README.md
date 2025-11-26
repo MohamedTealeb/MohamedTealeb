@@ -1,43 +1,87 @@
 <h2 align="center">Mohamed Ayman – Full Stack Developer</h2>
 
-<h3 align="center">🧰 Languages and Tools</h3>
+<h3 align="center">🧰 Tech Stack</h3>
 
-<!-- ===== FRONTEND ===== -->
+<!-- FRONTEND -->
 <h4 align="center">🎨 Frontend</h4>
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/></a>
-  <a href="https://mui.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="40" height="40" alt="Material UI"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
-  <a href="https://ui.shadcn.com/" target="_blank"><img src="https://ui.shadcn.com/favicon.ico" width="40" height="40" alt="shadcn"/></a>
+
+  <!-- React -->
+  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/>
+
+  <!-- Next.js -->
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js"/>
+
+  <!-- Tailwind -->
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="TailwindCSS"/>
+
+  <!-- MUI -->
+  <img src="https://skillicons.dev/icons?i=materialui" width="50" alt="MUI"/>
+
+  <!-- Bootstrap -->
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap"/>
+
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5"/>
+
+  <!-- CSS -->
+  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3"/>
+
+  <!-- JS -->
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"/>
+
+  <!-- TS -->
+  <img src="https://skillicons.dev/icons?i=typescript" width="50" alt="TypeScript"/>
+
 </p>
 
-<!-- ===== BACKEND ===== -->
+<!-- BACKEND -->
 <h4 align="center">⚙️ Backend</h4>
 <p align="center">
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/></a>
+
+  <!-- Node.js -->
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/>
+
+  <!-- NestJS -->
+  <img src="https://skillicons.dev/icons?i=nestjs" width="50" alt="NestJS"/>
+
+  <!-- Express -->
+  <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express"/>
+
 </p>
 
-<!-- ===== DATABASES & ORM ===== -->
+<!-- DATABASE -->
 <h4 align="center">🗄️ Databases & ORM</h4>
 <p align="center">
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/></a>
-  <a href="https://mongoosejs.com/" target="_blank"><img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" width="62" height="30" alt="Mongoose"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/></a>
-  <a href="https://sequelize.org/" target="_blank"><img src="https://sequelize.org/img/logo.svg" width="40" height="40" alt="Sequelize"/></a>
-  <a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" width="40" height="40" alt="Prisma"/></a>
+
+  <!-- MongoDB -->
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/>
+
+  <!-- MySQL -->
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
+
+  <!-- PostgreSQL -->
+  <img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/>
+
+  <!-- Prisma -->
+  <img src="https://skillicons.dev/icons?i=prisma" width="50" alt="Prisma"/>
+
+  <!-- Sequelize -->
+  <img src="https://skillicons.dev/icons?i=sequelize" width="50" alt="Sequelize"/>
+
 </p>
 
-<!-- ===== DEVOPS & TOOLS ===== -->
+<!-- DEVOPS -->
 <h4 align="center">🐳 DevOps & Tools</h4>
 <p align="center">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/></a>
+
+  <!-- Docker -->
+  <img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker"/>
+
+  <!-- Git -->
+  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
+
+  <!-- Linux -->
+  <img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux"/>
+
 </p>
