@@ -45,14 +45,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedTealeb&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedTealeb&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 <p align="center">
   <em>“Write code as if the person who ends up maintaining it will be a violent psychopath who knows where you live.”</em>
 </p>
