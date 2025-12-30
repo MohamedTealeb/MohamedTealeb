@@ -13,7 +13,6 @@
   <img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="TailwindCSS"/>
   <img src="https://skillicons.dev/icons?i=materialui" width="50" alt="MUI"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap"/>
   <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"/>
